@@ -1,0 +1,8 @@
+prefix=/home/zaid/catkin_ws/install
+
+Name: lidarlab
+Description: Description of lidarlab
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

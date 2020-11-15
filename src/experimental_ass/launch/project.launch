@@ -1,0 +1,7 @@
+<launch>
+     <node name ="play" pkg ="turtlesim_cleaner" type="play.py" output= "screen"/>
+     <node name ="gotogoal" pkg = "turtlesim_cleaner" type =" gotogoal.py" output= "screen"/>
+     <node name ="sleeping" pkg = "turtlesim_cleaner" type =" sleeping.py" output= "screen"/>
+
+</launch>
+
